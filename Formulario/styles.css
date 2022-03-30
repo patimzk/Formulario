@@ -83,6 +83,7 @@ body {
 .terms {
   display: flex;
   margin-bottom: 28px;
+  text-align: center;
 }
 
 .checkbox-field {
